@@ -1,5 +1,19 @@
 # @astrojs/mdx
 
+## 0.10.3
+
+### Patch Changes
+
+- [#4519](https://github.com/withastro/astro/pull/4519) [`a2e8e76c3`](https://github.com/withastro/astro/commit/a2e8e76c303e8d6f39c24c122905a10f06907997) Thanks [@JuanM04](https://github.com/JuanM04)! - Upgraded Shiki to v0.11.1
+
+- [#4530](https://github.com/withastro/astro/pull/4530) [`8504cd79b`](https://github.com/withastro/astro/commit/8504cd79b708e0d3bf1a2bb4ff9b86936bdd692b) Thanks [@kylebutts](https://github.com/kylebutts)! - Add custom components to README
+
+## 0.10.2
+
+### Patch Changes
+
+- [#4423](https://github.com/withastro/astro/pull/4423) [`d4cd7a59f`](https://github.com/withastro/astro/commit/d4cd7a59fd38d411c442a818cfaab40f74106628) Thanks [@bholmesdev](https://github.com/bholmesdev)! - Update Markdown type signature to match new markdown plugin,and update top-level layout props for better alignment
+
 ## 0.10.2-next.0
 
 ### Patch Changes
