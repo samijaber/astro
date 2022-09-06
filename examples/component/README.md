@@ -18,9 +18,6 @@ Inside of your Astro project, you'll see the following folders and files:
 ├── index.ts
 ├── src
 │   └── MyComponent.astro
-├── test
-│   ├── README.md
-│   └── example.test.js
 ├── tsconfig.json
 ├── package.json
 ```
@@ -32,6 +29,5 @@ All commands are run from the root of the project, from a terminal:
 
 | Command                | Action                                           |
 | :--------------------- | :----------------------------------------------- |
-| `npm run test`          | Runs all tests in the `test` folder |
 | `npm link`              | Registers this package locally. Run `npm link my-component-library` in an Astro project to install your components
 | `npm publish` | [Publishes](https://docs.npmjs.com/creating-and-publishing-unscoped-public-packages#publishing-unscoped-public-packages) this package to NPM. Requires you to be [logged in](https://docs.npmjs.com/cli/v8/commands/npm-adduser)
