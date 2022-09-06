@@ -31,8 +31,6 @@
     "packages/integrations/*",
     "packages/*",
     "examples/*",
-    "examples/component/demo",
-    "examples/component/packages/*",
     "scripts",
     "packages/astro/test/fixtures/component-library-shared",
     "packages/astro/test/fixtures/custom-elements/my-component-lib",
