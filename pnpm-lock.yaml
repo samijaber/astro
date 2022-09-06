@@ -74,15 +74,9 @@ importers:
 
   examples/component:
     specifiers:
-      '@types/node': ^18.6.2
-      '@types/prettier': ^2.6.4
-      astro: ^1.1.2
-      typescript: ^4.7.4
+      astro: ^1.1.5
     devDependencies:
-      '@types/node': 18.7.14
-      '@types/prettier': 2.7.0
       astro: link:../../packages/astro
-      typescript: 4.8.2
 
   examples/docs:
     specifiers:
